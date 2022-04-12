@@ -1,0 +1,13 @@
+In order to run multiple instances of the Node, we need to use a process manager.
+I highly recommend pm2 to handle process management for Node.js.
+
+
+We will create 4 application server instances using PM2.
+
+pm2 start app.js -f --3000
+pm2 start app.js -f --3001
+pm2 start app.js -f --3002
+pm2 start app.js -f --3003
+
+
+server instances will keep running in background on ports 3000, 3001, 3002, 3003

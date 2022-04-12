@@ -1,0 +1,23 @@
+{
+  "name": "NGINX",
+  "version": "1.0.0",
+  "description": "Web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailesh74250/NGINX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shailesh74250/NGINX/issues"
+  },
+  "homepage": "https://github.com/shailesh74250/NGINX#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

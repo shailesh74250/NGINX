@@ -1,0 +1,6 @@
+Load balancing is an approach to distribute and allocate the ingress traffic to multiple application servers.
+
+https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/  
+
+
+https://codeforgeek.com/load-balancing-nodejs-servers-nginx/
